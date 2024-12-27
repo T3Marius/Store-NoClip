@@ -8,7 +8,7 @@ Dependecies:
 in cs2-store.json:
 
 ```json
-      "2": {
+      "1": {
         "name": "No Clip [5 Sec]",
         "uniqueid": "no_clip",
         "type": "NoClip",
