@@ -1,9 +1,9 @@
-Discord link: [Discord]("https://discord.gg/mKWs2XKf2D")
+Discord link: [Discord](https://discord.gg/mKWs2XKf2D)
 
 Dependecies:
 
-- [CounterStrikeSharp]("https://github.com/roflmuffin/CounterStrikeSharp")
-- [CS2-Store]("https://github.com/schwarper/cs2-store")
+- [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp)
+- [CS2-Store](https://github.com/schwarper/cs2-store)
 
 in cs2-store.json:
 
